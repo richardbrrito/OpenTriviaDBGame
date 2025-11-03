@@ -1,4 +1,4 @@
-# Project 5 - *Trivia DB Game
+# Project 5 - **Trivia DB Game**
 
 Submitted by: **Richard Brito**
 
